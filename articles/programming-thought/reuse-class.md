@@ -37,7 +37,7 @@ class ClassC {
     }
 }
 ```
-![extend](http://img.blog.csdn.net/20171230162429958)
+![class-a](https://github.com/guobinhit/java-skills/blob/master/images/programming-thought/reuse-class/class-a.png)
 
 通过上面的测试，我们会发现：**类的构建过程是从超类向外“扩散”的**。
 
@@ -134,4 +134,4 @@ class Apple {
 
 ----------
 
-———— ☆☆☆ —— 返回 -> [那些年，关于 Java 的那些事儿](https://github.com/guobinhit/java-skills/blob/master/README.md) <- 目录 —— ☆☆☆ ————
+———— ☆☆☆ —— 返回 -> [The Skills of Java](https://github.com/guobinhit/java-skills/blob/master/README.md) <- 目录 —— ☆☆☆ ————

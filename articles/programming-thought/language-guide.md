@@ -1,6 +1,6 @@
 # 编程思想 之「语言导论」
 
-![Java](http://img.blog.csdn.net/20171202132506152)
+![java-icon](https://github.com/guobinhit/java-skills/blob/master/images/programming-thought/language-guide/java-icon.png)
 
 > **Java 发展史**
 
@@ -38,5 +38,5 @@ Java 语言缘起于 1991 年 Sun 成立的一个名为 Green 的项目小组，
 
 ----------
 
-———— ☆☆☆ —— 返回 -> [那些年，关于 Java 的那些事儿](https://github.com/guobinhit/java-skills/blob/master/README.md) <- 目录 —— ☆☆☆ ————
+———— ☆☆☆ —— 返回 -> [The Skills of Java](https://github.com/guobinhit/java-skills/blob/master/README.md) <- 目录 —— ☆☆☆ ————
 

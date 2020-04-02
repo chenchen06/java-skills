@@ -1,4 +1,4 @@
-# 那些年，关于 Java 的那些事儿
+# The Skills of Java
 
 ## 绪论
 
@@ -9,10 +9,17 @@
 
 ## 索引
 
+- [朝花夕拾](#朝花夕拾)
 - [编程思想](#编程思想)
 - [效率编程](#效率编程)
 - [并发实战](#并发实战)
 - [虚拟机篇](#虚拟机篇)
+
+
+## 朝花夕拾
+
+- 从 JDK 9 开始，超级根类`Object`中的`finalize()`方法被标记为`@Deprecated`；
+- 同样是从 JDK 9 开始，`String`类由`char[]`数组实现修改为由 `byte[]`数组实现。 
 
 ## 编程思想
 
@@ -54,23 +61,31 @@
 
 ## 并发实战
 
+- 第 1 章：[线程安全性](https://github.com/guobinhit/java-skills/blob/master/articles/concurrent-action/thread-safety.md)
+- 第 2 章：[对象的共享及组合](https://github.com/guobinhit/java-skills/blob/master/articles/concurrent-action/share-combine.md)
+
+
 
 ## 虚拟机篇
+
+- 第 1 章：[运行时数据区域及虚拟机对象](https://github.com/guobinhit/java-skills/blob/master/articles/virtual-machine/vmo-runtime.md)
+- 第 2 章：[垃圾收集与内存分配策略](https://github.com/guobinhit/java-skills/blob/master/articles/virtual-machine/gc-mas.md)
+
 
 
 ----------
 
 > **免责声明**：本系列博文的大部分内容均来自以下四本图书，
 >
-> ---- 书名：Java编程思想；作者：Bruce Eckel
+> ---> 书名：Java编程思想；作者：Bruce Eckel
 >
-> ---- 书名：Effective Java；作者：Joshua Bloch
+> ---> 书名：Effective Java；作者：Joshua Bloch
 >
-> ---- 书名：Java并发编程实战；作者：Brian Goetz，Tim Peierls 等
+> ---> 书名：Java并发编程实战；作者：Brian Goetz，Tim Peierls 等
 >
-> ---- 书名：深入理解Java虚拟机：JVM高级特性与最佳实践；作者：周志明
+> ---> 书名：深入理解Java虚拟机：JVM高级特性与最佳实践；作者：周志明
 > 
-> 此外，本系列博文的目的就在于摘出重点，梳理出最值得我们关注的内容，记录一些自己的理解，以供大家参考！
+> 书是知识之源，也是智慧经验的结晶！在此，强烈建议大家阅读原著，尊重版权。
 
 ----------
 
